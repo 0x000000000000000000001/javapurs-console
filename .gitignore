@@ -8,3 +8,6 @@ output/
 output.bak/
 package-lock.json
 test/actual_output.txt
+java_output/
+classes/
+.spago/
