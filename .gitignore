@@ -11,3 +11,6 @@ test/actual_output.txt
 java_output/
 classes/
 .spago/
+*.class
+*.java.bak
+.DS_Store
